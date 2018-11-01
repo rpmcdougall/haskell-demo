@@ -1,0 +1,7 @@
+Configuring focus-0.1.5.2...
+clang: warning: argument unused during compilation: '-nopie' [-Wunused-command-line-argument]
+Preprocessing library for focus-0.1.5.2..
+Building library for focus-0.1.5.2..
+[1 of 1] Compiling Focus            ( library/Focus.hs, .stack-work/dist/x86_64-osx/Cabal-2.2.0.1/build/Focus.o )
+Installing library in /Users/rpmmcdougall/.stack/snapshots/x86_64-osx/lts-12.16/8.4.4/lib/x86_64-osx-ghc-8.4.4/focus-0.1.5.2-g6PvKpsir7BEntEdB1ZSE
+Registering library for focus-0.1.5.2..
