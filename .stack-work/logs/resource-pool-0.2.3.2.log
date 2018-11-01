@@ -1,7 +1,0 @@
-Configuring resource-pool-0.2.3.2...
-clang: warning: argument unused during compilation: '-nopie' [-Wunused-command-line-argument]
-Preprocessing library for resource-pool-0.2.3.2..
-Building library for resource-pool-0.2.3.2..
-[1 of 1] Compiling Data.Pool        ( Data/Pool.hs, .stack-work/dist/x86_64-osx/Cabal-2.2.0.1/build/Data/Pool.o )
-Installing library in /Users/rpmmcdougall/.stack/snapshots/x86_64-osx/lts-12.16/8.4.4/lib/x86_64-osx-ghc-8.4.4/resource-pool-0.2.3.2-9hRQzwDonFTHw5AZoA8lyl
-Registering library for resource-pool-0.2.3.2..
